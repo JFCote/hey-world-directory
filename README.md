@@ -1,5 +1,7 @@
-# Hey World Blog Directory
-A list of personal blogs on the Hey World platform
+# Hey World Directory
+A list of personal blogs/newsletters on the Hey World platform.
+
+Hey World is a feature from [Hey.com](https://hey.com) email service that lets your email the web! More detail [here](https://www.hey.com/features/email-the-web/). This is truly an awesome feature and this directory has been created to help people discover writers from all over the world!
 
 | User                                          | Description                                                           | 
 |:---------------------------------------------:|-----------------------------------------------------------------------|
