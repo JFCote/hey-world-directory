@@ -3,7 +3,7 @@ A list of personal blogs/newsletters on the Hey World platform.
 
 Available as a webpage here: https://jfcote.github.io/hey-world-directory/
 
-Hey World is a feature from [Hey.com](https://hey.com) email service that lets your email the web! More detail [here](https://www.hey.com/features/email-the-web/). This is truly an awesome feature and this directory has been created to help people discover writers from all over the world!
+Hey World is a feature from [Hey.com](https://hey.com) email service that lets you email the web! More detail [here](https://www.hey.com/features/email-the-web/). This is truly an awesome feature and this directory has been created to help people discover writers from all over the world!
 
 | User                                          | Description                                                           | 
 |:---------------------------------------------:|-----------------------------------------------------------------------|
