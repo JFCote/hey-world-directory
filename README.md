@@ -11,6 +11,7 @@ Hey World is a feature from [Hey.com](https://hey.com) email service that lets y
 | [dhh](https://world.hey.com/dhh)              | Founder & CEO at 37signals (makers of Basecamp and HEY). Non-serial entrepreneur, serial author. |
 | [jfcote](https://world.hey.com/jfcote)        | Creator of this directory. Big fan of Hey.com and 37signals in general. 15+ years software developer. Write in french and english on different subjects. |
 | [jz](https://world.hey.com/jz)                | Lead product designer at 37signals, designing HEY and Basecamp since 2009 |
-| [andyn](httpsL//world.hey.com/andyn)          | Tech / generalist blog                                                    |
+| [andyn](https://world.hey.com/andyn)          | Tech / generalist blog                                                    |
+| [tasos](https://world.hey.com/tasos)          | Electrical Engineer at Arpedon. Builds robots, takes photos, writes python and essays. |
 
 Please help me to create the best directory of Hey World blogs. Create a PR and I will review it and merge it. Thanks!
