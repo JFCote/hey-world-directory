@@ -13,5 +13,6 @@ Hey World is a feature from [Hey.com](https://hey.com) email service that lets y
 | [jz](https://world.hey.com/jz)                | Lead product designer at 37signals, designing HEY and Basecamp since 2009 |
 | [andyn](https://world.hey.com/andyn)          | Tech / generalist blog                                                    |
 | [tasos](https://world.hey.com/tasos)          | Electrical Engineer at Arpedon. Builds robots, takes photos, writes python and essays. |
+| [badrah](https://world.hey.com/badrah)        | Curious about systems, understanding, transparency, abundance, and the joy they bring to all creatures on Earth. |
 
 Please help me to create the best directory of Hey World blogs. Create a PR and I will review it and merge it. Thanks!
